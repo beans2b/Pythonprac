@@ -1,4 +1,4 @@
-enter_sentence = input("Enter a sentence ")
+enter_sentence = input("Enter a sentence")
 
 #print(enter_sentence.lower())
 #print(enter_sentence.upper())
